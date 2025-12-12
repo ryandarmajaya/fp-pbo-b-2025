@@ -35,3 +35,6 @@ Once Tomcat is running, access the app at:
 http://localhost:8080/<project-folder-name>/
 ```
 
+---
+
+NB: Use user `admin` password `admin` to access all feature
