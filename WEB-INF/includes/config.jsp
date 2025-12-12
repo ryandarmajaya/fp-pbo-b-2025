@@ -1,7 +1,7 @@
 <%
 class Config{
 	public static String getDatabaseName(){
-		return "q2_webpro_2025";
+		return "fp_pbo_2025";
 	}
 	
 	public static String getDatabaseHost(){
@@ -20,12 +20,12 @@ class Config{
 	
 	// for windows
 	public static String getTempDir(){
-		return "c:\\temp\\q2_webpro_2025";
+		return "c:\\temp\\fp_pbo_2025";
 	}
 
 	// for linux
 	// public static String getTempDir(){
-	//	return "/tmp/q2_webpro_2025";
-	// } -->
+	//	return "/tmp/fp_pbo_2025";
+	// }
 }
 %>
