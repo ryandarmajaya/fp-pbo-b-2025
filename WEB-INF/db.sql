@@ -1,5 +1,5 @@
 -- ==========================================
--- Database: q2_webpro_2025
+-- Database: fp_pbo_2025
 -- ==========================================
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
@@ -10,9 +10,9 @@
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
-DROP DATABASE IF EXISTS `q2_webpro_2025`;
+DROP DATABASE IF EXISTS `fp_pbo_2025`;
 CREATE DATABASE `q2_webpro_2025` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
-USE `q2_webpro_2025`;
+USE `fp_pbo_2025`;
 
 -- ==========================================
 -- 1. MASTER DATA TABLES
